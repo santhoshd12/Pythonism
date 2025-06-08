@@ -78,7 +78,7 @@ def web_search(query, rapidapi_key):
         return {}
 
 
-rapidapi_key = 'a39868c9edmsh1952a015de56d08p1e9ac5jsne219261e1863'  
+rapidapi_key = 'your api key '  
 idea = input("Enter your idea to check for plagiarism: ")
 
 # Search 1: Original idea
