@@ -1,7 +1,7 @@
 import requests
-apikey = "AIzaSyDks5Mc5A69x7tLwXPQ_iEwJ7GH74_IgKY"
+apikey="your api key"
 
-cx = "94c65b7f35b65483e"
+cx = "your cx"
 
 def google_search(query):
     url = "https://www.googleapis.com/customsearch/v1"
