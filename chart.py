@@ -1,6 +1,6 @@
 import requests
 
-api_key = "9mfjuyfpn27jbjvuzsm6uvwp"
+api_key = "your api key"
 url = "https://ieeexploreapi.ieee.org/api/v1/search/articles"
 params = {
     "apikey": api_key,
